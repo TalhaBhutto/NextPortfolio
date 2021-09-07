@@ -1,10 +1,24 @@
-import React from 'react';
-import { AiFillGithub, AiFillTwitterCircle, AiFillLinkedin } from 'react-icons/ai';
+import React from "react";
+import {
+  AiFillGithub,
+  AiFillTwitterCircle,
+  AiFillLinkedin,
+} from "react-icons/ai";
 
-import { SocialIcons } from '../Header/HeaderStyles';
-import { CompanyContainer, FooterWrapper, LinkColumn, LinkItem, LinkList, LinkTitle, Slogan, SocialContainer, SocialIconsContainer } from './FooterStyles';
+import { SocialIcons } from "../Header/HeaderStyles";
+import {
+  CompanyContainer,
+  FooterWrapper,
+  LinkColumn,
+  LinkItem,
+  LinkList,
+  LinkTitle,
+  Slogan,
+  SocialContainer,
+  SocialIconsContainer,
+} from "./FooterStyles";
 
-const Footer = () => {
+function Footer() {
   return (
     <FooterWrapper>
       <LinkList>
@@ -37,6 +51,6 @@ const Footer = () => {
       </SocialIconsContainer>
     </FooterWrapper>
   );
-};
+}
 
 export default Footer;
