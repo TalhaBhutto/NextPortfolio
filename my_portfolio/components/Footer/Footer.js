@@ -29,7 +29,7 @@ function Footer() {
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
           <LinkItem href="mailto:contact@jsmastery.com">
-            talhahussaim444@gmail.com
+            talhahussain444@gmail.com
           </LinkItem>
         </LinkColumn>
       </LinkList>
