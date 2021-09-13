@@ -15,7 +15,7 @@ export const projects = [
       "It is an e-commerce store completely based on MERN stack. I have used many advanced React & JavaScript features, including Stripe for card transactions, redux, JSON web token etc.Best coding standards are followed in this project.",
     image: "/images/2.png",
     tags: ["Mongo", "Express", "React", "Node"],
-    source: "https://github.com/TalhaBhutto/E-Commerce-MERN",
+    source: "https://github.com/TalhaBhutto/ShoppingAppMERN",
     id: 1,
   },
 ];
