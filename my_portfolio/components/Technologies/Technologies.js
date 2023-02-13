@@ -1,5 +1,5 @@
 import React from "react";
-import { DiFirebase, DiReact, DiZend } from "react-icons/di";
+import { DiNodejsSmall, DiReact, DiZend,DiGitCommit } from "react-icons/di";
 import {
   Section,
   SectionDivider,
@@ -44,7 +44,7 @@ function Technologies() {
         </ListItem>
         <ListItem>
           <picture>
-            <DiFirebase size="3rem" />
+            <DiNodejsSmall size="3rem" />
           </picture>
           <ListContainer>
             <ListTitle>Back-End</ListTitle>
@@ -55,6 +55,21 @@ function Technologies() {
               GraphQL , DGraph , Jest ,
               <br />
               Multer , JWT , Nodemailer , etc
+              <br />
+            </ListParagraph>
+          </ListContainer>
+        </ListItem>
+        <ListItem>
+          <picture>
+            <DiGitCommit size="3rem" />
+          </picture>
+          <ListContainer>
+            <ListTitle>Others</ListTitle>
+            <ListParagraph>
+              Experience with <br />
+              Git , Github , Gitlab ,
+              <br />
+              Jira , Trello , AzureDevOps , etc
               <br />
             </ListParagraph>
           </ListContainer>
