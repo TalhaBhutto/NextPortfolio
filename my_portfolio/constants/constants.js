@@ -48,16 +48,19 @@ export const projects = [
   },
 ];
 export const TimeLineData = [
-  { year: 2017, text: "Started BSSE from University of Karachi." },
+  
+  { year: 2016, text: "Started Learning C++ and MS Access" },
+  { year: 2017, text: "Grabbed deeper understanding of OOP and databases." },
   {
     year: 2018,
-    text: "Had good understanding about OOP, RDBMS and data structures.",
+    text: "Worked on C# and started learning data structures.",
   },
-  { year: 2019, text: "Started learning web development." },
-  { year: 2020, text: "Started learned MERN stack and React Native." },
+  { year: 2019, text: "Worked on Java, MS SQL and Android studio ." },
+  { year: 2020, text: "Started learning web development and MERN stack." },
   {
     year: 2021,
-    text: "Completed BSSE and got a job as a MERN stack developer.",
+    text: "Got a remote Job as a MERN stack and react native dev and completed BSSE.",
   },
-  { year: 2022, text: "Sharpened my skills as a MERN stack developer." },
+  { year: 2022, text: "Learned GraphQL, graph database, dynamic web development and explored financial systems." },
+  { year: 2022, text: "Learning more and more about finalcial systems and code optimization." },
 ];
