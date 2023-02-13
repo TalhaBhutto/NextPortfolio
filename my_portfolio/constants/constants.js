@@ -62,5 +62,5 @@ export const TimeLineData = [
     text: "Got a remote Job as a MERN stack and react native dev and completed BSSE.",
   },
   { year: 2022, text: "Learned GraphQL, graph database, dynamic web development and explored financial systems." },
-  { year: 2022, text: "Having a target to learn RAD and Dep Ops." },
+  { year: 2023, text: "Having a target to learn RAD and Dep Ops." },
 ];
