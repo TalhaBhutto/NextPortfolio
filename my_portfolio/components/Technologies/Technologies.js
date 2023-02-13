@@ -32,10 +32,13 @@ function Technologies() {
             <ListTitle>Front-End</ListTitle>
             <ListParagraph>
               Experiece with <br />
-              ReactJS ,StripeJS ,typescript,
+              ReactJS , html , css ,  
+               <br />
+              NextTS , ReactTS , Redux ,
               <br />
-              NextJS ,Redux ,axios ,<br />
-              Material UI, Google maps , etc
+              Material UI , stripe , ReactNative ,
+              <br />
+              Web sockets , Google maps , DnD etc
             </ListParagraph>
           </ListContainer>
         </ListItem>
@@ -47,7 +50,9 @@ function Technologies() {
             <ListTitle>Back-End</ListTitle>
             <ListParagraph>
               Experience with <br />
-              NodeJS , express , MongoDB Atlas ,
+              NodeJS , Express , MongoDB ,
+              <br />
+              GraphQL , DGraph , Jest ,
               <br />
               Multer , JWT , Nodemailer , etc
               <br />
