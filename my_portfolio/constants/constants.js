@@ -1,14 +1,5 @@
 export const projects = [
   {
-    title: "NART NEWS",
-    description:
-      "It is a NEWS website which comprises on client site and admin site and is developed on MERN stack. The client site is developed using typescript and the admin site has a 4 tier admin system who communicate with each other as well. ",
-    image: "/images/2.png",
-    tags: ["Mongo", "Express", "React", "Node"],
-    visit: "https://independent-pakistan.net/",
-    id: 0,
-  },
-  {
     title: "ADAcademy",
     description:
       "It is an online Learning app with a client and admin site which offers its users to buy courses. The frontend is developed using react & typescript and the backend is developed using .net",
@@ -23,26 +14,35 @@ export const projects = [
       "It is a material shifting website which allows user to request for a move or delivery. The frontend is developed on react and the backend is developed on .net",
     image: "/images/2.png",
     tags: ["React", ".net", "Stripe", "G-Maps"],
-    visit: "http://mov.anadeemus.ca/",
+    visit: "https://moovez.ca/",
     id: 0,
   },
   {
-    title: "MERN Memories",
+    title: "Chicoo",
     description:
-      "Using React, Node.js, Express & MongoDB I built a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
+      "Chicoo is a Pakistani startup which aims at enabling local merchants/vendors to have their e-commerce store set up within a few minutes and then it provides a wide range of cool features like robocall, whatapp bot, wallet, google tracking and much more.",
     image: "/images/1.png",
-    tags: ["Mongo", "Express", "React", "Node"],
-    visit: "https://memoriesbytalha.netlify.app/",
+    tags: ["NodeJS", "GraphQL", "MongoDB", "DGraph","React","Flutter"],
+    visit: "https://chikoo.app/",
     source: "https://github.com/TalhaBhutto/MERN_Project",
     id: 1,
   },
   {
+    title: "NART NEWS",
+    description:
+      "It is a NEWS website which comprises on client site and admin site and is developed on MERN stack. The client site is developed using typescript and the admin site has a 4 tier admin system. ",
+    image: "/images/2.png",
+    tags: ["Mongo", "Express", "React", "Node"],
+    visit: "https://independent-pakistan.net/",
+    id: 0,
+  },
+  {
     title: "Nikahfied",
     description:
-      "Its a matrimonial site developed specifically for the Muslims. The mobile app is developed on react-native and web app is developed on nextJS",
+      "Its a matrimonial app developed specifically for the Muslims. The mobile app is developed on react-native and web app is developed on nextJS",
     image: "/images/1.png",
     tags: ["React-Native", "NextJS", "React", ".net"],
-    visit: "https://www.getnikahfied.com/",
+    visit: "https://play.google.com/store/apps/details?id=com.anadeemus.getnikahfied&hl=en&gl=US",
     source: "https://github.com/TalhaBhutto/MERN_Project",
     id: 1,
   },
